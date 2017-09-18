@@ -14,6 +14,6 @@ only two first rows needed.
 where x are original coordinates needs to be projected and x' are new coordinates where image needs to be projected.
 
 Basketball-court is the original image which has been projected.
-
+![alt text](basketball-court.ppm)
 Output is the new image formed using DLT and Bilinear Interpolation.
 ![alt text](output.jpg)
