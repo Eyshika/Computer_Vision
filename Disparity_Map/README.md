@@ -5,3 +5,4 @@ Process:
     For this I considered 3X3 window and 15X15 window and compared their outputs.
     This step helps in detecting the corresponding pixels in left image.
 3. Used sad values to find minimum disparity value and stored into new image to form disparity map.
+![alt text](left_orig.jpg)
