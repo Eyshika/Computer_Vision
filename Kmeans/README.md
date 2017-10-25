@@ -7,3 +7,11 @@ The aim of this project was too apply Kmeans segmentation on white-tower image f
 For initialization I randomly picked 10 RGB triplets.
 
 
+Original Image
+![alt text](white-tower.png)
+
+Output Image for K=2
+![alt text](K=2.jpg)
+
+Output Image for k=10
+![alt text](K=10.jpg)
