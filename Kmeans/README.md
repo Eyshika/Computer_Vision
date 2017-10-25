@@ -11,7 +11,7 @@ Original Image
 ![alt text](white-tower.png)
 
 Output Image for K=2
-![alt text](K=2.jpg)
+![alt text](k=2.jpg)
 
 Output Image for k=10
-![alt text](K=10.jpg)
+![alt text](k=10.jpg)
