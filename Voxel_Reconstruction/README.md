@@ -9,7 +9,7 @@ A type of input image. total 8 such images were used.
 ![alt text](cam00_00023_0000008550.png)
 
 Siphoutte image of one of the original image
-![alt text](silh_cam00_00023_0000008550.png)
+![alt text](silh_cam00_00023_0000008550.pbm)
 
 Output:
 
